@@ -32,9 +32,9 @@
 ### 📊 *My GitHub Stats*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha310&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha310&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhitha310&theme=rogue" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harhi1808&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harhi1808&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harhi1808&theme=rogue" alt="GitHub Contribution Graph" />
 </div>
 
 ---
